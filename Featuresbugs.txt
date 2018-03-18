@@ -1,1 +1,11 @@
-This is a place holder for all the planned features implemented aswell as a list of all bugs and their quick fixes.
+
+Feature List
+
+	Planned:
+
+	Optional:
+
+Suggested Features:
+
+
+Bug List:
